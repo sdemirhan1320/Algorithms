@@ -1,22 +1,11 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sdemirhan1320/algorithms/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Basic Gradient Descent](Algorithms/Gradient Descent .html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Business Case](Algorithms/Business Case.html)
 
-### Markdown
+[Data Preparation for text processing](Algorithms/data_preparation_text_processing.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Word Clusters](Algorithms/word_clusters_nytimes.html)
 
-```markdown
-Syntax highlighted code block
+[Language Recognition](Algorithms/classifier_language_recognition-tensor-flow.html)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. Lis
