@@ -1,11 +1,11 @@
 
-[Basic Gradient Descent](Algorithms/Gradient Descent .html)
+[Basic Gradient Descent](algorithms/Gradient Descent .html)
 
-[Business Case](Algorithms/Business Case.html)
+[Business Case](algorithms/Business Case.html)
 
-[Data Preparation for text processing](Algorithms/data_preparation_text_processing.html)
+[Data Preparation for text processing](algorithms/data_preparation_text_processing.html)
 
-[Word Clusters](Algorithms/word_clusters_nytimes.html)
+[Word Clusters](algorithms/word_clusters_nytimes.html)
 
-[Language Recognition](Algorithms/classifier_language_recognition-tensor-flow.html)
+[Language Recognition](algorithms/classifier_language_recognition-tensor-flow.html)
 
