@@ -9,5 +9,5 @@
 
 [Language Recognition](algorithms/classifier_language_recognition-tensor-flow.html)
 
-[Yahoo Stock Indeces](algorithms/STOCK_INDICES.html)
+[Yahoo Stock Indeces](algorithms/Turkey Stock Prices.html)
 
