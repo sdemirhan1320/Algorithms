@@ -12,3 +12,5 @@
 [Yahoo Stock Indeces](algorithms/Turkey Stock Prices.html)
 
 [Pandas](algorithms/PANDAS.html)
+
+[BIST PLOTS](algorithms/bist_line_plots.html)
