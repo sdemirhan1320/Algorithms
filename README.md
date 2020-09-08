@@ -1,1 +1,1 @@
-Please go to https://sdemirhan1320.github.io/Algorithms/ for my projects
+Please go to https://sinan-demirhan.github.io/Algorithms/ for my projects
