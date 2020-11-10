@@ -13,4 +13,8 @@
 
 [Pandas](algorithms/PANDAS.html)
 
-[BIST PLOTS](algorithms/bist_line_plots.html)
+[BIST PLOTS](algorithms/bist_line_plots.html)       
+
+[BIST PLOTS WITH MA LINES](algorithms/BIST maps.html)         
+
+[BIST PREDICTION SIMULATION](algorithms/BIST Simulation.html)
